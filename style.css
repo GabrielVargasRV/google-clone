@@ -125,7 +125,7 @@ a{
 }
 .footer div ul{
     display: flex;
-    margin-top: 8px;
+    margin-top: 10px;
 }
 .footer div ul li a{
     color: #70757A;
