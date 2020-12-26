@@ -74,9 +74,12 @@ a{
 }
 .input-container span img{
     width: 15px;
+    margin-top: 6px;
+    margin-left: 6px;
 }
 .micro-icon img{
     width: 20px;
+    margin: 3px;
 }
 .input-container input{
     /* border: 2px black solid; */
